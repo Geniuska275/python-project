@@ -1,0 +1,3 @@
+name="kingsley"
+def add(a,b):
+    return a+b
